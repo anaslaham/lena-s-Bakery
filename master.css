@@ -269,7 +269,7 @@ table {
     }
     .navbar{
         display: inline-block;
-        margin-left: 5rem;
+        margin-left: 10%;
     }
     .navdis {
         bottom: 1rem;
