@@ -273,7 +273,7 @@ table {
     }
     .navdis {
         bottom: 1rem;
-        left: 5rem;
+        left: 10%;
     }
     .cardContent{
         padding-left: .05rem;
